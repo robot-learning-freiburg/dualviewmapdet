@@ -1,0 +1,30 @@
+*.pyc
+*.npy
+*.pth
+*.whl
+*.swp
+
+data/
+ckpt/
+work_dirs*/
+dist_test/
+vis/
+val/
+lib/
+
+*.egg-info
+build/
+__pycache__/
+*.so
+
+job_scripts/
+temp_ops/
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
